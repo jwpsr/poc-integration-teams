@@ -1,0 +1,14 @@
+{
+  "name": "poc-integration-teams",
+  "version": "1.0.0",
+  "description": "Teams integration proof of concept",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joseph Parker",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
